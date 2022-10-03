@@ -1,0 +1,37 @@
+section {
+    background-color: white;
+}
+section.grid {
+    display: grid;
+    border: 5px solid gray;
+    width: fit-content;
+    height: fit-content;
+    margin-bottom: 1rem;
+    grid-template-columns: 100px 300px;
+    grid-template-rows: 500px;
+    grid-template-areas: 
+    
+}
+div {
+font-family: arial;
+font-size: 20px;
+}
+.left {
+
+}
+.right {
+
+}
+
+#box {
+
+}
+#horizontal {
+
+}
+#dh {
+
+}
+#box2 {
+
+}
